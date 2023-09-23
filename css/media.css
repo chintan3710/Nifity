@@ -1,0 +1,13 @@
+@media (min-width: 992px){
+    .w-lg-100{
+        width: 100% !important;
+    }
+    .about .col-lg-6:first-of-type .about-items{
+        width: fit-content;
+    }
+}
+@media (min-width: 1400px){
+    .roadmap .roadmap-items img{
+        width: 75% !important;
+    }
+}
